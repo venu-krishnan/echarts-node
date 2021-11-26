@@ -10,5 +10,6 @@
 3) node canvas-example.js
 
 # Reference
-https://echarts.apache.org/en/tutorial.html#Server-side%20Rendering
+## https://echarts.apache.org/en/tutorial.html#Server-side%20Rendering
+## https://github.com/Automattic/node-canvas
 
