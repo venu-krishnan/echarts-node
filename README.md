@@ -5,9 +5,9 @@
 
 # How to run in local node
 
-npm install
-node echart_save_image.js
-node canvas-example.js
+1) npm install
+2) node echart_save_image.js
+3) node canvas-example.js
 
 # Reference
 https://echarts.apache.org/en/tutorial.html#Server-side%20Rendering
